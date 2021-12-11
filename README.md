@@ -4,8 +4,8 @@
 Aqui temos a lista dos mers exercícios de Lógica aplicados na Linguagem de Programação Java para serem entregues a Generation Brazil.
 
 
-Main
--Introdução
--Laços de decisão
-- Laços de Repetição
--Read.me c/ enunciados das questões 
+#### Main ###
+## Introdução
+## Laços de decisão
+## Laços de Repetição
+## Read.me c/ enunciados das questões 
