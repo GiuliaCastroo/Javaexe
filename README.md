@@ -16,3 +16,6 @@ Estrutura de Laços de Repetição, com For, While e Do While, exercícios 2, 3 
 
 ## Read.me c/ enunciados das questões 
 Arquivos Read.me dentro das pastas, com os enunciados dos exercícios anexadas.
+
+##Matrizez e Vetores
+Estrutura de matrizes e vetores em Java , exercícios 1,2,3 e 4 anexados.
