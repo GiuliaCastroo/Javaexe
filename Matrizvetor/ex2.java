@@ -33,7 +33,7 @@ public class ex2 {
 			System.out.printf("\n");
 			for (i=0 ; i< dado ; i++) {
 			if (v[i] == maior)	
-				System.out.printf("\n A maior pontuação foi" + v[i] );			
+				System.out.printf("\n A maior pontuação foi " + v[i] );			
 						System.out.printf("\n è a média foi:  " + media);
 			}
 			
