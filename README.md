@@ -4,7 +4,7 @@
 Aqui temos a lista dos mers exercícios de Lógica aplicados na Linguagem de Programação Java para serem entregues a Generation Brazil.
 
 
-#### Main ###
+# Main 
 ## Introdução
 Introdução a linguagem de programação Java, váriaveis e operadores lógicos, exercícios 3, 4 e 8 anexados.
 
@@ -19,3 +19,10 @@ Arquivos Read.me dentro das pastas, com os enunciados dos exercícios anexadas.
 
 ## Matrizez e Vetores
 Estrutura de matrizes e vetores em Java , exercícios 1,2,3 e 4 anexados.
+
+
+# POO
+
+##  Introdução
+Introdução as Programação Orientada a Objetos, exercícios 1, 2 , 3 Anexados.
+
