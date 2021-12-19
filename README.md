@@ -29,7 +29,7 @@ Introdução as Programação Orientada a Objetos, exercícios 1, 2 , 3 Anexados
 ## Herança e Polimorfismo
 Pasta "her", contendo os exercicios de Herança e polimorfismo exercício 1, parte I e II, anexada na pasta
 
-##Collections 
+## Collections 
 Pasta Collection contendo o exércicicio 3 (Estoque), anexada
 
 # Branches - Exemplos (poo- contém apenas os exemplos mostrados no vídeos)
