@@ -26,7 +26,11 @@ Estrutura de matrizes e vetores em Java , exercícios 1,2,3 e 4 anexados.
 ##  Introdução
 Introdução as Programação Orientada a Objetos, exercícios 1, 2 , 3 Anexados.
 
+## Herança e Polimorfismo
+Pasta "her", contendo os exercicios de Herança e polimorfismo exercício 1, parte I e II, anexada na pasta
 
+##Collections 
+Pasta Collection contendo o exércicicio 3 (Estoque), anexada
 
-# Branches - Exemplos (poo)
+# Branches - Exemplos (poo- contém apenas os exemplos mostrados no vídeos)
 Pasta com anexos de exemplos dos exercícios a serem feitos.
